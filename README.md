@@ -4,10 +4,14 @@
 </p>
 <p>
   - I am..
+</p>
+<p>
   <a href="https://velog.io/@kms39273"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kms39273"/></a>
 </p>
 <p>
   - Interest in..
+</p>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 </p>
