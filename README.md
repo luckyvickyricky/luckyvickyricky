@@ -1,10 +1,8 @@
 <p>
-  <img src="https://github.com/cukminseo/cukminseo/assets/75977640/0283e7d4-d2af-42c6-bbc3-003e816e3004" alt="images">
-</p>
-<p>
   - I am..
 </p>
 <p>
+  <img src="https://github.com/cukminseo/cukminseo/assets/75977640/0283e7d4-d2af-42c6-bbc3-003e816e3004" alt="images">
   <a href="https://velog.io/@kms39273">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white" alt="Tech Blog">
   </a>
