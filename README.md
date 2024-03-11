@@ -9,9 +9,10 @@
 <ul>
   <li>Interest in..</li>
 </ul>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" alt="Pytorch">
-
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" alt="Pytorch">
+</p>
 <a href="https://github.com/cukminseo/cukminseo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cukminseo&langs_count=3" alt="Top Langs">
 </a>
