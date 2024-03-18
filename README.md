@@ -4,8 +4,12 @@
 </ul>
 <p>
     <a href="https://velog.io/@kms39273">
-        <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white" alt="Tech Blog">
+        <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Velog&logoColor=white" alt="Tech Blog">
     </a>
+    <a href="https://blog.naver.com/def__init__">
+         <img src="https://img.shields.io/badge/Blog(diary)-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/def__init__"/>
+    </a>
+
 </p>
 
 <ul>
