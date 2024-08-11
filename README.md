@@ -1,24 +1,33 @@
-<img src="https://github.com/cukminseo/cukminseo/assets/75977640/0283e7d4-d2af-42c6-bbc3-003e816e3004" alt="images">
-<ul>
-    <li>I am..</li>
-</ul>
-<p>
-    <a href="https://velog.io/@kms39273">
-        <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Velog&logoColor=white" alt="Tech Blog">
-    </a>
-    <a href="https://blog.naver.com/def__init__">
-         <img src="https://img.shields.io/badge/Blog(diary)-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/def__init__"/>
-    </a>
+<div align="center">
 
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=B495DF&text=업중%20정상영업중%20정상영&reversal=false&textBg=false&desc=AI%20Researcher%20|%20Minseo%20Kim&descAlign=60&descAlignY=60&fontSize=80&animation=fadeIn&fontColor=495057&fontAlignY=40)
 
-<ul>
-  <li>Interest in..</li>
-</ul>
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" alt="Pytorch">
-</p>
-<a href="https://github.com/cukminseo/cukminseo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cukminseo&langs_count=3" alt="Top Langs">
-</a>
+</div>
+
+## ✏️ Log
+<div align="center">
+    <picture>
+        <img width="53%" src="https://velog-readme-stats.vercel.app/api?name=kms39273">
+    </picture>
+    <picture>
+        <img width="43%" src="https://velog-readme-stats.vercel.app/api/list?name=kms39273">
+    </picture>
+</div>
+
+## 🎓 Education
+
+### [네이버 부스트 캠프 AI Tech 7기](https://boostcamp.connect.or.kr/program_ai.html)
+#### NLP트랙
+- 2024.08. ~ 2025.02.
+
+### [네트워크과학 연구실](https://nslab-cuk.github.io/)
+#### 학부연구생
+- 2023.07. ~ 2024.05.
+
+### [가톨릭대학교](https://www.catholic.ac.kr/ko/index.do)
+#### 정보통신전자공학부 1전공
+#### 컴퓨터정보공학부 2전공
+#### 인공지능학과 부전공
+
+- 2019.03. ~ 2025.08.
+
