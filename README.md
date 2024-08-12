@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=B495DF&text=정상영업중&reversal=false&textBg=false&desc=AI%20Researcher%20|%20Minseo%20Kim&descAlign=60&descAlignY=60&fontSize=80&animation=fadeIn&fontColor=495057&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=B495DF&text=정상영업중&reversal=false&textBg=false&desc=Data%20scientist%20|%20Minseo%20Kim&descAlign=60&descAlignY=60&fontSize=80&animation=fadeIn&fontColor=495057&fontAlignY=40)
 
 
 
