@@ -1,8 +1,8 @@
 <div align="center">
     
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=B495DF&text=정상영업중&reversal=false&textBg=false&desc=Data%20scientist%20|%20Minseo%20Kim&descAlign=60&descAlignY=60&fontSize=80&animation=fadeIn&fontColor=495057&fontAlignY=40)
-    
-<img src="https://github.com/user-attachments/assets/f8455a34-5739-4ae8-b0e0-233b531cd752" style="width: 50%;">
+
+<img src="https://github.com/user-attachments/assets/315e3f48-7954-45c3-b77f-cc4c6d703ac0" style="width: 50%;">
 
 
 ## ✏️ Log
