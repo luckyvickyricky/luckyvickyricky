@@ -10,7 +10,7 @@ MAX_POST = 5
 # 한국 시간(KST)로 현재 날짜 가져오기
 today_date = datetime.now(pytz.timezone('Asia/Seoul')).strftime("%B %d, %Y")
 
-hello_there = f"## Hello, {today_date}! Let's give it our best today💪"
+hello_there = f"## Hello, {today_date}! Let's give it our best shot💪"
 recently_posts = ""
 
 for idx, feed in enumerate(RSS_FEED['entries']):
