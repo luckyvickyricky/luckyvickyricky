@@ -39,5 +39,5 @@ jobs:
         git diff
         git config --local user.email "kms39273@catholic.ac.kr"
         git config --local user.name "luckyvickyricky"
-        git commit -m "ci: automate README updates with latest blog posts"
+        git commit -m "ci] automate README updates with latest blog posts"
         git push
