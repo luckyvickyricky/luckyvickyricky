@@ -1,14 +1,16 @@
 import feedparser
 import pytz
-import time
-from datetime import datetime
+from datetime import datetime, timedelta
 
 URL = "https://def-init.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
+# 한국 시간대 설정
+seoul_tz = pytz.timezone('Asia/Seoul')
+
 # 한국 시간(KST)로 현재 날짜 가져오기
-today_date = datetime.now(pytz.timezone('Asia/Seoul')).strftime("%B %d, %Y")
+today_date = datetime.now(seoul_tz).strftime("%B %d, %Y")
 
 hello_there = f"## Hello, {today_date}! Let's give it our best shot💪"
 recently_posts = ""
@@ -18,8 +20,10 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
 
     else:
-        feed_date = feed['published_parsed']
-        recently_posts += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        # 받아온 RSS시간에 하드코딩으로 9시간을 더하여 한국 시간대로 변환(RSS설정을 KST로 설정했으나 UTC로 받아오는 문제 발생)
+        feed_date_utc = datetime(*feed['published_parsed'][:6])
+        feed_date_kst = feed_date_utc + timedelta(hours=9)
+        recently_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
 
 
 
