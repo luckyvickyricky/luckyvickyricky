@@ -34,10 +34,9 @@ jobs:
         python python-app.py
     - name: Update README.md file
       run: | 
-        git pull
+        git pull --rebase #Add rebase
         git add .
-        git diff
         git config --local user.email "kms39273@catholic.ac.kr"
         git config --local user.name "luckyvickyricky"
-        git commit -m "ci] automate README updates with latest blog posts"
+        git diff --cached --quiet || git commit -m "ci: automate README updates with latest changes" #수정사항이 있을때만 커밋하기
         git push
