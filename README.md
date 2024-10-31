@@ -1,4 +1,4 @@
-## Hello, October 31, 2024! Let's give it our best shot💪
+## Hello, November 01, 2024! Let's give it our best shot💪
 
 ### 🚀About Me
 
