@@ -1,12 +1,12 @@
 ## Hello, November 01, 2024! Let's give it our best shot💪
 
-### 🚀About Me
+### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
 
 - Studying to become an **NLP AI researcher**; interested in open-source contributions.
 - On a break from senior year in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5).
 - Enrolled in **Naver Boostcamp AI Tech** program.
 
-### ✏️ Log
+### ✏️ Log 
 [2024/10/31 - Python에서 .env 환경변수 파일 작성 및 관리](https://def-init.tistory.com/entry/Python%EC%97%90%EC%84%9C-env-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1-%EB%B0%8F-%EA%B4%80%EB%A6%AC) <br/>
 [2024/10/31 - Github Actions을 사용한 Readme 업데이트 CI/CD 구축](https://def-init.tistory.com/entry/Github-Actions%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-Readme-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-CICD-%EA%B5%AC%EC%B6%95) <br/>
 [2024/10/29 - huggingface로 협업하기(추가중)](https://def-init.tistory.com/entry/huggingface%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0%EC%B6%94%EA%B0%80%EC%A4%91) <br/>
