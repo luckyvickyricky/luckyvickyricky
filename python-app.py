@@ -7,7 +7,7 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 # 한국 시간대 설정
-seoul_tz = pytz.timezone('Asia/Seoul')
+seoul_tz = pytz.timezone("Asia/Seoul")
 
 # 한국 시간(KST)로 현재 날짜 가져오기
 today_date = datetime.now(seoul_tz).strftime("%B %d, %Y")
@@ -15,27 +15,26 @@ today_date = datetime.now(seoul_tz).strftime("%B %d, %Y")
 hello_there = f"## Hello, {today_date}! Let's give it our best shot💪"
 recently_posts = ""
 
-for idx, feed in enumerate(RSS_FEED['entries']):
+for idx, feed in enumerate(RSS_FEED["entries"]):
     if idx > MAX_POST:
         break
 
     else:
         # 받아온 RSS시간에 하드코딩으로 9시간을 더하여 한국 시간대로 변환(RSS설정을 KST로 설정했으나 UTC로 받아오는 문제 발생)
-        feed_date_utc = datetime(*feed['published_parsed'][:6])
+        feed_date_utc = datetime(*feed["published_parsed"][:6])
         feed_date_kst = feed_date_utc + timedelta(hours=9)
         recently_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
 
 
-
 markdown_text = f"""{hello_there}
 
-### 🚀About Me
+### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
 
 - Studying to become an **NLP AI researcher**; interested in open-source contributions.
 - On a break from senior year in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5).
 - Enrolled in **Naver Boostcamp AI Tech** program.
 
-### ✏️ Log
+### ✏️ Log 
 {recently_posts}
 
 <div align="center">
