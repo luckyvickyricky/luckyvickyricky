@@ -51,11 +51,11 @@ markdown_text = f"""{hello_there}
 - On a break from senior year in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5).
 - Enrolled in **Naver Boostcamp AI Tech** program.
 
-### ✏️ Study Log 
+### ✏️ Study Log (Tistory)
 {recently_tistory_posts}
 
 
-### ✍🏻 Retrospective Log
+### ✍🏻 Retrospective Log (velog)
 {recently_velog_posts}
 
 <div align="center">
