@@ -2,9 +2,6 @@ import feedparser
 import pytz
 from datetime import datetime, timedelta
 
-URL = "https://def-init.tistory.com/rss"
-RSS_FEED = feedparser.parse(URL)
-MAX_POST = 5
 
 # 한국 시간대 설정
 seoul_tz = pytz.timezone("Asia/Seoul")
@@ -13,17 +10,37 @@ seoul_tz = pytz.timezone("Asia/Seoul")
 today_date = datetime.now(seoul_tz).strftime("%B %d, %Y")
 
 hello_there = f"## Hello, {today_date}! Let's give it our best shot💪"
-recently_posts = ""
 
-for idx, feed in enumerate(RSS_FEED["entries"]):
-    if idx > MAX_POST:
+RSS_MAX_POST = 5
+
+# tistory RSS parser
+TISTORY_RSS_URL = "https://def-init.tistory.com/rss"
+TISTORY_RSS_FEED = feedparser.parse(TISTORY_RSS_URL)
+
+recently_tistory_posts = ""
+
+for idx, feed in enumerate(TISTORY_RSS_FEED["entries"]):
+    if idx >= RSS_MAX_POST:
         break
 
     else:
         # 받아온 RSS시간에 하드코딩으로 9시간을 더하여 한국 시간대로 변환(RSS설정을 KST로 설정했으나 UTC로 받아오는 문제 발생)
         feed_date_utc = datetime(*feed["published_parsed"][:6])
         feed_date_kst = feed_date_utc + timedelta(hours=9)
-        recently_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
+        recently_tistory_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
+
+# velog RSS parser
+VELOG_RSS_URL = "https://api.velog.io/rss/@kms39273"
+VELOG_RSS_FEED = feedparser.parse(VELOG_RSS_URL)
+recently_velog_posts = ""
+
+for idx, feed in enumerate(VELOG_RSS_FEED["entries"]):
+    if idx >= RSS_MAX_POST:
+        break
+    feed_date_utc = datetime(*feed["published_parsed"][:6])
+    feed_date_kst = feed_date_utc + timedelta(hours=9)
+
+    recently_velog_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
 
 
 markdown_text = f"""{hello_there}
@@ -34,8 +51,12 @@ markdown_text = f"""{hello_there}
 - On a break from senior year in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5).
 - Enrolled in **Naver Boostcamp AI Tech** program.
 
-### ✏️ Log 
-{recently_posts}
+### ✏️ Study Log 
+{recently_tistory_posts}
+
+
+### ✍🏻 Retrospective Log
+{recently_velog_posts}
 
 <div align="center">
 
