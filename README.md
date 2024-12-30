@@ -1,4 +1,4 @@
-## Hello, December 30, 2024! Let's give it our best shot💪
+## Hello, December 31, 2024! Let's give it our best shot💪
 
 ### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
 
@@ -16,11 +16,11 @@
 
 
 ### ✍🏻 Retrospective Log (velog)
+[2024/12/30 - 24년 12월 월간 회고](https://velog.io/@kms39273/24%EB%85%84-12%EC%9B%94-%EC%9B%94%EA%B0%84-%ED%9A%8C%EA%B3%A0) <br/>
 [2024/12/29 - 24년 52주차 주간회고](https://velog.io/@kms39273/24%EB%85%84-52%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0) <br/>
 [2024/08/16 - GPT-1: Improving Language Understanding by Generative Pre-Training](https://velog.io/@kms39273/GPT-1-Improving-Language-Understanding-by-Generative-Pre-Training) <br/>
 [2024/08/12 - Numerical Instability Solution for Softmax](https://velog.io/@kms39273/Numerical-Instability-Solution-for-Softmax) <br/>
 [2024/08/09 - [1week]Pytorch-Recap](https://velog.io/@kms39273/1weekPytorch-Recap) <br/>
-[2024/07/13 - 그리디 알고리즘, 문제풀이](https://velog.io/@kms39273/%EA%B7%B8%EB%A6%AC%EB%94%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4) <br/>
 
 
 <div align="center">
