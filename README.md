@@ -1,4 +1,4 @@
-## Hello, December 31, 2024! Let's give it our best shot💪
+## Hello, January 01, 2025! Let's give it our best shot💪
 
 ### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
 
