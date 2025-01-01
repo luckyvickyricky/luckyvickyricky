@@ -7,11 +7,19 @@
 - Enrolled in **Naver Boostcamp AI Tech** program.
 
 ### ✏️ Study Log (Tistory)
+<<<<<<< Updated upstream
 [2025/01/01 - test](https://def-init.tistory.com/entry/test) <br/>
 [2025/01/01 - 3090 2way 워크스테이션 제작](https://def-init.tistory.com/entry/3090-2way-%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98-%EC%A0%9C%EC%9E%91) <br/>
 [2025/01/01 - 온프레미스(On-premise) 웹 서버 환경 구성하기](https://def-init.tistory.com/entry/%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4On-premise-%EC%9B%B9-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0) <br/>
 [2024/11/20 - GPU의 제한된 vram 환경에서 효율적으로 모델을 학습하는 방법](https://def-init.tistory.com/entry/GPU%EC%9D%98-%EC%A0%9C%ED%95%9C%EB%90%9C-vram-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br/>
 [2024/11/19 - 포스팅 방식에 대한 고민, 블로그 글을 회고하면서](https://def-init.tistory.com/entry/%ED%8F%AC%EC%8A%A4%ED%8C%85-%EB%B0%A9%EC%8B%9D%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EB%AF%BC-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B4%EC%84%9C) <br/>
+=======
+[2025/01/02 - TPU; In-Datacenter Performance Analysis of a Tensor Processing Unit](https://def-init.tistory.com/entry/TPU-In-Datacenter-Performance-Analysis-of-a-Tensor-Processing-Unit) <br/>
+[2025/01/01 - CPU와 GPU의 특성과 AI ASIC의 필요성](https://def-init.tistory.com/entry/test) <br/>
+[2025/01/01 - 3090 2way 워크스테이션 제작](https://def-init.tistory.com/entry/3090-2way-%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98-%EC%A0%9C%EC%9E%91) <br/>
+[2025/01/01 - 온프레미스(On-premise) 웹 서버 환경 구성하기](https://def-init.tistory.com/entry/%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4On-premise-%EC%9B%B9-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0) <br/>
+[2024/11/20 - GPU의 제한된 vram 환경에서 효율적으로 모델을 학습하는 방법](https://def-init.tistory.com/entry/GPU%EC%9D%98-%EC%A0%9C%ED%95%9C%EB%90%9C-vram-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br/>
+>>>>>>> Stashed changes
 
 
 
