@@ -1,4 +1,4 @@
-## Hello, January 24, 2025! Let's give it our best shot💪
+## Hello, January 25, 2025! Let's give it our best shot💪
 
 ### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
 
@@ -16,11 +16,11 @@
 
 
 ### ✍🏻 Retrospective Log (velog)
+[2025/01/24 - 25년 1월 4주차 주간회고](https://velog.io/@kms39273/25%EB%85%84-1%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0) <br/>
 [2025/01/18 - 25년 3주차 주간회고](https://velog.io/@kms39273/25%EB%85%84-3%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0) <br/>
 [2025/01/10 - 25년 2주차 주간회고](https://velog.io/@kms39273/25%EB%85%84-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0) <br/>
 [2025/01/05 - 25년 1주차 주간회고](https://velog.io/@kms39273/25%EB%85%84-1%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0) <br/>
 [2024/12/30 - 24년 12월 월간 회고](https://velog.io/@kms39273/24%EB%85%84-12%EC%9B%94-%EC%9B%94%EA%B0%84-%ED%9A%8C%EA%B3%A0) <br/>
-[2024/12/29 - 24년 52주차 주간회고](https://velog.io/@kms39273/24%EB%85%84-52%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0) <br/>
 
 
 <div align="center">
