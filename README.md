@@ -1,4 +1,4 @@
-## Hello, February 23, 2025! Let's give it our best shot💪
+## Hello, February 24, 2025! Let's give it our best shot💪
 
 ### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
 
@@ -7,7 +7,7 @@
 - Enrolled in **Naver Boostcamp AI Tech** program.
 
 ### ✏️ Study Log (Tistory)
-[2025/02/23 - \[논문리뷰\]RLHF;Training language models to follow instructions with human feedback](https://def-init.tistory.com/28) <br/>
+[2025/02/23 - \[논문리뷰\] RLHF;Training language models to follow instructions with human feedback](https://def-init.tistory.com/28) <br/>
 [2025/01/30 - 우분투 환경에서 deepseek-r1 로컬 설치하기(open-webui, docker)](https://def-init.tistory.com/27) <br/>
 [2025/01/20 - SoundStream: An End-to-End Neural Audio Codec](https://def-init.tistory.com/26) <br/>
 [2025/01/01 - CPU와 GPU의 특성과 AI ASIC의 필요성](https://def-init.tistory.com/24) <br/>
