@@ -24,10 +24,12 @@ for idx, feed in enumerate(TISTORY_RSS_FEED["entries"]):
         break
 
     else:
-        # 받아온 RSS시간에 하드코딩으로 9시간을 더하여 한국 시간대로 변환(RSS설정을 KST로 설정했으나 UTC로 받아오는 문제 발생)
+        # 받아온 RSS시간에 9시간을 더하여 한국 시간대로 변환(RSS설정을 KST로 설정했으나 UTC로 받아오는 문제 발생)
         feed_date_utc = datetime(*feed["published_parsed"][:6])
         feed_date_kst = feed_date_utc + timedelta(hours=9)
-        recently_tistory_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
+        escaped_title = feed["title"].replace("]", "\\]").replace("[", "\\[")
+        recently_tistory_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {escaped_title}]({feed['link']}) <br/>\n"
+
 
 # velog RSS parser
 VELOG_RSS_URL = "https://api.velog.io/rss/@kms39273"
