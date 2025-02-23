@@ -7,11 +7,11 @@
 - Enrolled in **Naver Boostcamp AI Tech** program.
 
 ### ✏️ Study Log (Tistory)
-[2025/02/23 - 논문리뷰]RLHF;Training language models to follow instructions with human feedback](https://def-init.tistory.com/entry/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0RLHFTraining-language-models-to-follow-instructions-with-human-feedback) <br/>
-[2025/01/30 - 우분투 환경에서 deepseek-r1 로컬 설치하기(open-webui, docker)](https://def-init.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-deepseek-r1-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0open-webui-docker) <br/>
-[2025/01/20 - SoundStream: An End-to-End Neural Audio Codec](https://def-init.tistory.com/entry/SoundStream-An-End-to-End-Neural-Audio-Codec) <br/>
-[2025/01/01 - CPU와 GPU의 특성과 AI ASIC의 필요성](https://def-init.tistory.com/entry/test) <br/>
-[2025/01/01 - 3090 2way 워크스테이션 제작](https://def-init.tistory.com/entry/3090-2way-%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%85%98-%EC%A0%9C%EC%9E%91) <br/>
+[2025/02/23 - \[논문리뷰\]RLHF;Training language models to follow instructions with human feedback](https://def-init.tistory.com/28) <br/>
+[2025/01/30 - 우분투 환경에서 deepseek-r1 로컬 설치하기(open-webui, docker)](https://def-init.tistory.com/27) <br/>
+[2025/01/20 - SoundStream: An End-to-End Neural Audio Codec](https://def-init.tistory.com/26) <br/>
+[2025/01/01 - CPU와 GPU의 특성과 AI ASIC의 필요성](https://def-init.tistory.com/24) <br/>
+[2025/01/01 - 3090 2way 워크스테이션 제작](https://def-init.tistory.com/23) <br/>
 
 
 
