@@ -1,7 +1,7 @@
-import feedparser
-import pytz
 from datetime import datetime, timedelta
 
+import feedparser
+import pytz
 
 # 한국 시간대 설정
 seoul_tz = pytz.timezone("Asia/Seoul")
@@ -55,7 +55,7 @@ markdown_text = f"""{hello_there}
 {recently_tistory_posts}
 
 
-### ✍🏻 Retrospective Log (velog)
+### ✍🏻 Retrospective Log, News (velog)
 {recently_velog_posts}
 
 <div align="center">
