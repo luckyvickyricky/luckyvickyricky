@@ -23,6 +23,8 @@
 [2025/01/10 - 25년 2주차 주간회고](https://velog.io/@kms39273/25%EB%85%84-2%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0) <br/>
 
 
+### 💻 Algorithm
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kms39273&theme=warm)
 <div align="center">
 
 #### 💡 More posts here
