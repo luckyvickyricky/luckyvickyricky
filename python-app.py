@@ -60,6 +60,8 @@ markdown_text = f"""{hello_there}
 ### ✍🏻 Retrospective Log, News (velog)
 {recently_velog_posts}
 
+### 💻 Algorithm
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kms39273&theme=warm)
 <div align="center">
 
 #### 💡 More posts here
