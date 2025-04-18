@@ -3,7 +3,7 @@
 ### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
 
 - Studying to become an **NLP AI researcher**; interested in alignment tuning.
-- On a break from senior year in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5, Ranked 1st in department).
+- Senior in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5, **Ranked 1st**).
 - Recently completed the Naver Boostcamp AI Tech program.
 - Interested in open-source contributions.
 
