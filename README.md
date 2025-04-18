@@ -1,6 +1,6 @@
 ## Hello, April 18, 2025! Let's give it our best shot:D
 
-### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
+### 🚀About Me
 
 - Studying to become an **NLP AI researcher**; interested in alignment tuning.
 - Senior in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5, **Ranked 1st**).
