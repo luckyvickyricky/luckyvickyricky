@@ -9,7 +9,7 @@ seoul_tz = pytz.timezone("Asia/Seoul")
 # 한국 시간(KST)로 현재 날짜 가져오기
 today_date = datetime.now(seoul_tz).strftime("%B %d, %Y")
 
-hello_there = f"## Hello, {today_date}! Let's give it our best shot💪"
+hello_there = f"## Hello, {today_date}! Let's give it our best shot:D"
 
 RSS_MAX_POST = 5
 
@@ -49,9 +49,10 @@ markdown_text = f"""{hello_there}
 
 ### 🚀About Me [![English](https://img.shields.io/badge/CV-ENG-d5dff8.svg)](CV_ENG.pdf)
 
-- Studying to become an **NLP AI researcher**; interested in open-source contributions.
-- On a break from senior year in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5).
-- Enrolled in **Naver Boostcamp AI Tech** program.
+- Studying to become an **NLP AI researcher**; interested in alignment tuning.
+- On a break from senior year in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5, Ranked 1st in department).
+- Recently completed the Naver Boostcamp AI Tech program.
+- Interested in open-source contributions.
 
 ### ✏️ Study Log (Tistory)
 {recently_tistory_posts}
