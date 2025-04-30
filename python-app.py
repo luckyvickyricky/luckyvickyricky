@@ -77,9 +77,7 @@ markdown_text = f"""{hello_there}
 
 [![Velog Badge](http://img.shields.io/badge/Tistory-F76A1C?style=flat-square&logo=Tistory&logoColor=white&link=https://def-init.tistory.com)](https://def-init.tistory.com/)
 &nbsp;&nbsp;
-[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kms39273/posts)](https://velog.io/@kms39273/posts)
-&nbsp;&nbsp;
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/def__init__)](https://blog.naver.com/def__init__)
+[![Tistory Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kms39273/posts)](https://velog.io/@kms39273/posts)
 
 </div>
 
