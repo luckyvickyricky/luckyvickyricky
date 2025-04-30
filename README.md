@@ -1,4 +1,4 @@
-## Hello, April 30, 2025! Let's give it our best shot:D
+## Hello, May 01, 2025! Let's give it our best shot:D
 
 ### 🚀About Me
 
@@ -26,6 +26,14 @@
 
 ### 💻 Algorithm
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kms39273&theme=warm)
+
+### 🎓 Certification
+
+| Certification                                                                                                                | Issuer                    | Issue Date  |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------- |
+| [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/54edcc42-016b-4e57-8138-54e3e25c4cec/linked_in_profile)          | Amazon Web Services | April 2025  |
+| [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/6e181d13-c2f5-4374-aa2a-374d8f07b93a/linked_in_profile) | Amazon Web Services | April 2025  |
+
 <div align="center">
 
 #### 💡 More posts here
