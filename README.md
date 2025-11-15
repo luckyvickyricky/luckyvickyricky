@@ -13,7 +13,7 @@
 [2025/02/23 - \[논문리뷰\] RLHF;Training language models to follow instructions with human feedback](https://def-init.tistory.com/28) <br/>
 [2025/01/30 - 우분투 환경에서 deepseek-r1 로컬 설치하기(open-webui, docker)](https://def-init.tistory.com/27) <br/>
 
-[See all →](https://def-init.tistory.com)
+[See all...](https://def-init.tistory.com)
 
 ### ✍🏻 Retrospective Logs, News
 [2025/06/07 - 대학생 Gemini Pro(Google AI Pro) 15개월 무료 혜택 받기](https://velog.io/@kms39273/%EB%8C%80%ED%95%99%EC%83%9D-Google-Gemini-Pro-15%EA%B0%9C%EC%9B%94-%EB%AC%B4%EB%A3%8C-%ED%98%9C%ED%83%9D-%EB%B0%9B%EA%B8%B0) <br/>
@@ -22,7 +22,7 @@
 [2025/04/01 - [읽을거리]RAG vs. Fine Tuning](https://velog.io/@kms39273/RAG-vs.-Fine-Tuning) <br/>
 [2025/03/15 - TIL - 2025.03.14](https://velog.io/@kms39273/TIL-2025.03.14) <br/>
 
-[See all →](https://velog.io/@kms39273/posts)
+[See all...](https://velog.io/@kms39273/posts)
 
 ### 🎓 Certification
 
