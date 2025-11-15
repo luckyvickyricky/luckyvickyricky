@@ -53,11 +53,11 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 
 ### ✏️ Study Logs
 {recently_tistory_posts}
-[See all →](https://def-init.tistory.com)
+[See all...](https://def-init.tistory.com)
 
 ### ✍🏻 Retrospective Logs, News
 {recently_velog_posts}
-[See all →](https://velog.io/@kms39273/posts)
+[See all...](https://velog.io/@kms39273/posts)
 
 ### 🎓 Certification
 
