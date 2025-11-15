@@ -9,8 +9,6 @@ seoul_tz = pytz.timezone("Asia/Seoul")
 # 한국 시간(KST)로 현재 날짜 가져오기
 today_date = datetime.now(seoul_tz).strftime("%B %d, %Y")
 
-hello_there = f"## Hello, {today_date}! Let's give it our best shot:D"
-
 RSS_MAX_POST = 5
 
 # tistory RSS parser
@@ -45,24 +43,21 @@ for idx, feed in enumerate(VELOG_RSS_FEED["entries"]):
     recently_velog_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
 
 
-markdown_text = f"""{hello_there}
+markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 
 ### 🚀About Me
 
-- Studying to become an **NLP AI researcher**; interested in alignment tuning.
-- Senior in Electronics Engineering at The Catholic University of Korea (GPA 4.3/4.5, **Ranked 1st**).
-- Recently completed the Naver Boostcamp AI Tech program.
+- Studying to become an **AI researcher**; interested in LLM alignment tuning, quantization, etc.
+- B.S. in EE & CS (GPA 4.3/4.5, **Ranked 1st**).
 - Interested in open-source contributions.
 
-### ✏️ Study Log (Tistory)
+### ✏️ Study Logs
 {recently_tistory_posts}
+[See all →](https://def-init.tistory.com)
 
-
-### ✍🏻 Retrospective Log, News (velog)
+### ✍🏻 Retrospective Logs, News
 {recently_velog_posts}
-
-### 💻 Algorithm
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kms39273&theme=warm)
+[See all →](https://velog.io/@kms39273/posts)
 
 ### 🎓 Certification
 
@@ -73,17 +68,10 @@ markdown_text = f"""{hello_there}
 
 <div align="center">
 
-#### 💡 More posts here
-
-[![Velog Badge](http://img.shields.io/badge/Tistory-F76A1C?style=flat-square&logo=Tistory&logoColor=white&link=https://def-init.tistory.com)](https://def-init.tistory.com/)
-&nbsp;&nbsp;
-[![Tistory Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kms39273/posts)](https://velog.io/@kms39273/posts)
-
-</div>
+<img src="https://github.com/user-attachments/assets/8fa48fc4-0b28-4ea3-9f77-241896097d70" style="width: 50%;">
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8fa48fc4-0b28-4ea3-9f77-241896097d70" style="width: 50%;">
 
 ### See you👋
 
