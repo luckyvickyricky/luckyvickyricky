@@ -1,4 +1,4 @@
-## Hello, May 01, 2025! Let's give it our best shot:D
+## Hello, November 15, 2025! Let's give it our best shot:D
 
 ### 🚀About Me
 
@@ -17,11 +17,11 @@
 
 
 ### ✍🏻 Retrospective Log, News (velog)
+[2025/06/07 - 대학생 Gemini Pro(Google AI Pro) 15개월 무료 혜택 받기](https://velog.io/@kms39273/%EB%8C%80%ED%95%99%EC%83%9D-Google-Gemini-Pro-15%EA%B0%9C%EC%9B%94-%EB%AC%B4%EB%A3%8C-%ED%98%9C%ED%83%9D-%EB%B0%9B%EA%B8%B0) <br/>
 [2025/04/23 - [생각]Adapter(PEFT)는 과연 효율적인가?](https://velog.io/@kms39273/%EC%83%9D%EA%B0%81AdapterPEFT%EB%8A%94-%EA%B3%BC%EC%97%B0-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%EA%B0%80) <br/>
 [2025/04/06 - [읽을 거리]Meta Launches Llama 4](https://velog.io/@kms39273/%EC%9D%BD%EC%9D%84-%EA%B1%B0%EB%A6%ACMeta-Launches-Llama-4) <br/>
 [2025/04/01 - [읽을거리]RAG vs. Fine Tuning](https://velog.io/@kms39273/RAG-vs.-Fine-Tuning) <br/>
 [2025/03/15 - TIL - 2025.03.14](https://velog.io/@kms39273/TIL-2025.03.14) <br/>
-[2025/02/17 - 25년 7주차 주간회고](https://velog.io/@kms39273/25%EB%85%84-7%EC%A3%BC%EC%B0%A8-%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0) <br/>
 
 
 ### 💻 Algorithm
@@ -40,9 +40,7 @@
 
 [![Velog Badge](http://img.shields.io/badge/Tistory-F76A1C?style=flat-square&logo=Tistory&logoColor=white&link=https://def-init.tistory.com)](https://def-init.tistory.com/)
 &nbsp;&nbsp;
-[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kms39273/posts)](https://velog.io/@kms39273/posts)
-&nbsp;&nbsp;
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/def__init__)](https://blog.naver.com/def__init__)
+[![Tistory Badge](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kms39273/posts)](https://velog.io/@kms39273/posts)
 
 </div>
 
