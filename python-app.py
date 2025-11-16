@@ -26,7 +26,7 @@ for idx, feed in enumerate(TISTORY_RSS_FEED["entries"]):
         feed_date_utc = datetime(*feed["published_parsed"][:6])
         feed_date_kst = feed_date_utc + timedelta(hours=9)
         escaped_title = feed["title"].replace("]", "\\]").replace("[", "\\[")
-        recently_tistory_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {escaped_title}]({feed['link']}) <br/>\n"
+        recently_tistory_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {escaped_title}]({feed['link']})  \n"
 
 
 # velog RSS parser
@@ -40,7 +40,7 @@ for idx, feed in enumerate(VELOG_RSS_FEED["entries"]):
     feed_date_utc = datetime(*feed["published_parsed"][:6])
     feed_date_kst = feed_date_utc + timedelta(hours=9)
 
-    recently_velog_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
+    recently_velog_posts += f"[{feed_date_kst.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']})  \n"
 
 
 markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
@@ -69,32 +69,16 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 | Aug 2024 - Feb 2025 | **NLP Track** @ [Naver Boostcamp AI Tech 7th](https://boostcamp.connect.or.kr/program_ai.html) |
 | Aug 2023 - Jul 2024 | **Undergraduate Researcher** @ [Network Science Lab, CUK](https://nslab-cuk.github.io/) |
 
-<div align="center">
+### 🏆 Achievements
 
-<table border="0">
-<tr>
-<td width="50%">
-
-### 🏆 Awards
-
-| Date | Award |
-| ---- | ----- |
+| Date | Achievement |
+| ---- | ----------- |
 | Sep 2025 | **3rd Place** - AWS Hackathon |
+| Aug 2025 | PCCP (Python3) Lv.5 Master - Programmers |
+| Apr 2025 | [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/54edcc42-016b-4e57-8138-54e3e25c4cec/linked_in_profile) |
+| Apr 2025 | [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/6e181d13-c2f5-4374-aa2a-374d8f07b93a/linked_in_profile) |
 
-</td>
-<td width="50%">
-
-### 🎓 Certifications
-
-| Date | Certification |
-| ---- | ------------- |
-| Apr 2025 | [AWS Certified ML - Specialty](https://www.credly.com/badges/54edcc42-016b-4e57-8138-54e3e25c4cec/linked_in_profile) |
-| Apr 2025 | [AWS Certified ML Engineer - Associate](https://www.credly.com/badges/6e181d13-c2f5-4374-aa2a-374d8f07b93a/linked_in_profile) |
-
-</td>
-</tr>
-</table>
-
+<div align="center">
 
 ### See you👋
 
