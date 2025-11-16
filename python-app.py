@@ -69,9 +69,11 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 | Aug 2024 - Feb 2025 | **NLP Track** @ [Naver Boostcamp AI Tech 7th](https://boostcamp.connect.or.kr/program_ai.html) |
 | Aug 2023 - Jul 2024 | **Undergraduate Researcher** @ [Network Science Lab, CUK](https://nslab-cuk.github.io/) |
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+
+<table style="border: none;">
+<tr style="border: none;">
+<td width="50%" style="border: none;">
 
 ### 🏆 Awards
 
@@ -80,7 +82,7 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 | Sep 2025 | **3rd Place** - AWS Hackathon |
 
 </td>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 ### 🎓 Certifications
 
@@ -93,8 +95,6 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 </tr>
 </table>
 
-
-<div align="center">
 
 ### See you👋
 
