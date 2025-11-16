@@ -24,12 +24,39 @@
 
 [See all...](https://velog.io/@kms39273/posts)
 
-### 🎓 Certification
+### 📆 Timeline
 
-| Certification                                                                                                                | Issuer                    | Issue Date  |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------- |
-| [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/54edcc42-016b-4e57-8138-54e3e25c4cec/linked_in_profile)          | Amazon Web Services | April 2025  |
-| [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/6e181d13-c2f5-4374-aa2a-374d8f07b93a/linked_in_profile) | Amazon Web Services | April 2025  |
+| Period | Experience |
+| ------ | ---------- |
+| Oct 2025 - Present | **AI Engineer** @ [Nota AI](https://nota.ai/) |
+| Aug 2025 - Oct 2025 | **Hugging Face Open Source Contributor** @ [OSSCA](https://www.contribution.ac/) |
+| May 2025 - Aug 2025 | **AI Research Engineer** @ [Upstage](https://www.upstage.ai/) |
+| Aug 2024 - Feb 2025 | **NLP Track** @ [Naver Boostcamp AI Tech 7th](https://boostcamp.connect.or.kr/program_ai.html) |
+| Aug 2023 - Jul 2024 | **Undergraduate Researcher** @ [Network Science Lab, CUK](https://nslab-cuk.github.io/) |
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 Awards
+
+| Date | Award |
+| ---- | ----- |
+| Sep 2025 | **3rd Place** - AWS Hackathon |
+
+</td>
+<td width="50%">
+
+### 🎓 Certifications
+
+| Date | Certification |
+| ---- | ------------- |
+| Apr 2025 | [AWS Certified ML - Specialty](https://www.credly.com/badges/54edcc42-016b-4e57-8138-54e3e25c4cec/linked_in_profile) |
+| Apr 2025 | [AWS Certified ML Engineer - Associate](https://www.credly.com/badges/6e181d13-c2f5-4374-aa2a-374d8f07b93a/linked_in_profile) |
+
+</td>
+</tr>
+</table>
 
 
 <div align="center">
