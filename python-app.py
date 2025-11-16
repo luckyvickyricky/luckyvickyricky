@@ -59,7 +59,7 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 {recently_velog_posts}
 [See all...](https://velog.io/@kms39273/posts)
 
-### 📆 Timeline
+### 📍 Milestones
 
 | Period | Experience |
 | ------ | ---------- |
@@ -71,9 +71,9 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 
 <div align="center">
 
-<table style="border: none;">
-<tr style="border: none;">
-<td width="50%" style="border: none;">
+<table border="0">
+<tr>
+<td width="50%">
 
 ### 🏆 Awards
 
@@ -82,7 +82,7 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 | Sep 2025 | **3rd Place** - AWS Hackathon |
 
 </td>
-<td width="50%" style="border: none;">
+<td width="50%">
 
 ### 🎓 Certifications
 
