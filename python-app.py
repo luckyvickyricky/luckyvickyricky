@@ -107,7 +107,7 @@ temp = """
     </picture>
     &nbsp;&nbsp;&nbsp;
     <picture>
-        <img width="47%" src="https://github-readme-stats.vercel.app/api?username=luckyvickyricky&show_icons=true&theme=dark">
+        <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nevertmr&show_icons=true&theme=dark">
     </picture>
 </div>
 
