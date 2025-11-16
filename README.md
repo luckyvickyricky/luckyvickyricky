@@ -32,6 +32,8 @@
 | [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/6e181d13-c2f5-4374-aa2a-374d8f07b93a/linked_in_profile) | Amazon Web Services | April 2025  |
 
 
+<div align="center">
+
 ### See you👋
 
 </div>
