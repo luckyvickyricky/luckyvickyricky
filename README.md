@@ -24,7 +24,7 @@
 
 [See all...](https://velog.io/@kms39273/posts)
 
-### 📆 Timeline
+### 📍 Milestones
 
 | Period | Experience |
 | ------ | ---------- |
@@ -36,9 +36,9 @@
 
 <div align="center">
 
-<table style="border: none;">
-<tr style="border: none;">
-<td width="50%" style="border: none;">
+<table border="0">
+<tr>
+<td width="50%">
 
 ### 🏆 Awards
 
@@ -47,7 +47,7 @@
 | Sep 2025 | **3rd Place** - AWS Hackathon |
 
 </td>
-<td width="50%" style="border: none;">
+<td width="50%">
 
 ### 🎓 Certifications
 
