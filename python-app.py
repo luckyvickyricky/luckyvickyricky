@@ -67,6 +67,8 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 | [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/6e181d13-c2f5-4374-aa2a-374d8f07b93a/linked_in_profile) | Amazon Web Services | April 2025  |
 
 
+<div align="center">
+
 ### See you👋
 
 </div>
@@ -76,8 +78,6 @@ markdown_text = f"""## Hello, {today_date}:D Let's give it our best shot.
 # 추후 다듬고 추가할 예정
 temp = """
 
-
-<div align="center">
 
 <img src="https://github.com/user-attachments/assets/8fa48fc4-0b28-4ea3-9f77-241896097d70" style="width: 50%;">
 
