@@ -1,4 +1,4 @@
-## Hello, November 29, 2025:D Let's give it our best shot.
+## Hello, November 30, 2025:D Let's give it our best shot.
 
 ### 🚀About Me
 
